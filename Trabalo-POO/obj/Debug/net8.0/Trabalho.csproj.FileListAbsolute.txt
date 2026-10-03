@@ -1,0 +1,14 @@
+D:\Trabalho - POO\Trabalo-POO\bin\Debug\net8.0\Trabalho.exe
+D:\Trabalho - POO\Trabalo-POO\bin\Debug\net8.0\Trabalho.deps.json
+D:\Trabalho - POO\Trabalo-POO\bin\Debug\net8.0\Trabalho.runtimeconfig.json
+D:\Trabalho - POO\Trabalo-POO\bin\Debug\net8.0\Trabalho.dll
+D:\Trabalho - POO\Trabalo-POO\bin\Debug\net8.0\Trabalho.pdb
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.AssemblyInfoInputs.cache
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.AssemblyInfo.cs
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.csproj.CoreCompileInputs.cache
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.dll
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\refint\Trabalho.dll
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.pdb
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\Trabalho.genruntimeconfig.cache
+D:\Trabalho - POO\Trabalo-POO\obj\Debug\net8.0\ref\Trabalho.dll
