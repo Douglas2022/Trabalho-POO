@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\SistmaAcademico\bin\Debug\net10.0\MeuProjeto.exe
+C:\Users\DELL\Desktop\C#\SistmaAcademico\bin\Debug\net10.0\MeuProjeto.deps.json
+C:\Users\DELL\Desktop\C#\SistmaAcademico\bin\Debug\net10.0\MeuProjeto.runtimeconfig.json
+C:\Users\DELL\Desktop\C#\SistmaAcademico\bin\Debug\net10.0\MeuProjeto.dll
+C:\Users\DELL\Desktop\C#\SistmaAcademico\bin\Debug\net10.0\MeuProjeto.pdb
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.dll
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\refint\MeuProjeto.dll
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.pdb
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#\SistmaAcademico\obj\Debug\net10.0\ref\MeuProjeto.dll
